@@ -1,6 +1,6 @@
 PLUGIN.name = "Ven'in Karakter Gelişim Sistemi"
 PLUGIN.author = "Ven"
-PLUGIN.description = "Diestra Roleplay için geliştirdiğim karakter gelişim sistemi."
+PLUGIN.description = "Ven'in basit karakter gelişim sistemi."
 PLUGIN.version = "0.1"
 
 ix.ven = ix.ven or {}
